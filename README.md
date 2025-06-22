@@ -22,7 +22,7 @@ Integrantes: Janco Victor, Castillo Albert
 
 ## ⚙️ Instalación y ejecución
 
-1. Cloná el repositorio y navegá a la carpeta del backend:
+1. Cloná este repositorio y navegá a la carpeta del backend:
 
     cd backend
 
